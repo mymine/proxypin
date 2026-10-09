@@ -20,7 +20,7 @@ on:
       - 'v*'
 
 env:
-  FLUTTER_CHANNEL: 'beta'
+  FLUTTER_CHANNEL: 'stable'
   APP_NAME: 'proxypin-with-mcp'
 
 jobs:
